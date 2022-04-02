@@ -1,8 +1,6 @@
 <h1 align="center">😃 Bello! I am Zaki Mohammed</h1>
 <h3 align="center">Learner, developer, coder and an exceptional omelet lover. Knows how to flip arrays or omelet or arrays of omelet.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakimohammed" alt="zakimohammed" /></a> </p>
-
 - 🎶 I’m currently learning **Azure, React, .NET Core**
 
 - ✏️ I regularly write articles on [https://codeomelet.com/](https://codeomelet.com/)
@@ -12,10 +10,6 @@
 - 🏃 How to reach me **shaikhzaki67@gmail.com**
 
 - 😅 Fun fact **Squirtle, without a doubt, is my favorite Pokemon**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +26,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakimohammed&show_icons=true&locale=en&layout=compact" alt="zakimohammed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakimohammed&" alt="zakimohammed" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakimohammed" alt="zakimohammed" /></a> </p>
