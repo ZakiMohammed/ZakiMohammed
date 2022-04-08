@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making promises in Love and JavaScript](https://zakimohammed.medium.com/making-promises-in-love-and-javascript-f57b501248cc?source=rss-1a77cd27c34b------2)
 - [Why your crush and JavaScript does not callback anymore](https://zakimohammed.medium.com/why-your-crush-and-javascript-does-not-callback-anymore-2e757c23cf65?source=rss-1a77cd27c34b------2)
 - [Pokedex using Angular and Bootstrap with PokeAPI](https://zakimohammed.medium.com/pokedex-using-angular-and-bootstrap-with-pokeapi-adbd1ea3d322?source=rss-1a77cd27c34b------2)
 - [Baking pagination with Angular and Bootstrap 5](https://towardsdev.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5?source=rss-1a77cd27c34b------2)
 - [Crafting paginated API with NodeJS and MSSQL](https://towardsdev.com/crafting-paginated-api-with-nodejs-and-mssql-eeb800a2df62?source=rss-1a77cd27c34b------2)
-- [Calling Stored Procedure with NodeJS and MSSQL](https://towardsdev.com/calling-stored-procedure-with-nodejs-and-mssql-543478e4505f?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
