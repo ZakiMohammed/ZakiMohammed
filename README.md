@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [NgMarvel app using Angular and Marvel API](https://zakimohammed.medium.com/ngmarvel-app-using-angular-and-marvel-api-c4af591391fb?source=rss-1a77cd27c34b------2)
 - [Async-Await-ing for your Loving Promises](https://blog.devgenius.io/async-await-ing-for-your-loving-promises-98a892332769?source=rss-1a77cd27c34b------2)
 - [Making promises in Love and JavaScript](https://zakimohammed.medium.com/making-promises-in-love-and-javascript-f57b501248cc?source=rss-1a77cd27c34b------2)
 - [Why your crush and JavaScript does not callback anymore](https://zakimohammed.medium.com/why-your-crush-and-javascript-does-not-callback-anymore-2e757c23cf65?source=rss-1a77cd27c34b------2)
 - [Pokedex using Angular and Bootstrap with PokeAPI](https://zakimohammed.medium.com/pokedex-using-angular-and-bootstrap-with-pokeapi-adbd1ea3d322?source=rss-1a77cd27c34b------2)
-- [Baking pagination with Angular and Bootstrap 5](https://towardsdev.com/baking-pagination-with-angular-and-bootstrap-5-784d15ab0bd5?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
