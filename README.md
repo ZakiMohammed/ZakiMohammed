@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The file melting Multer with NodeJS and Express](https://zakimohammed.medium.com/the-file-melting-multer-with-nodejs-and-express-528fc6914178?source=rss-1a77cd27c34b------2)
 - [This is awkward in JavaScript](https://zakimohammed.medium.com/this-is-awkward-in-javascript-73f405f2b0d0?source=rss-1a77cd27c34b------2)
 - [NgMarvel app using Angular and Marvel API](https://zakimohammed.medium.com/ngmarvel-app-using-angular-and-marvel-api-c4af591391fb?source=rss-1a77cd27c34b------2)
 - [Async-Await-ing for your Loving Promises](https://blog.devgenius.io/async-await-ing-for-your-loving-promises-98a892332769?source=rss-1a77cd27c34b------2)
 - [Making promises in Love and JavaScript](https://zakimohammed.medium.com/making-promises-in-love-and-javascript-f57b501248cc?source=rss-1a77cd27c34b------2)
-- [Why your crush and JavaScript does not callback anymore](https://zakimohammed.medium.com/why-your-crush-and-javascript-does-not-callback-anymore-2e757c23cf65?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
