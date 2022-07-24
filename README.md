@@ -3,7 +3,9 @@
 
 - 🎶 I’m currently learning **Azure, React, .NET Core**
 
-- ✏️ I regularly write articles on [https://codeomelet.com/](https://codeomelet.com/)
+- 📹 Check out mah YouTube channel [CodeOmelet - YouTube Channel](https://www.youtube.com/channel/UCK6qSa7lAJtYGrQX8Y-bD1w)
+
+- ✏️ I regularly write articles on [CodeOmelet](https://codeomelet.com/)
 
 - 😏 Ask me about **JavaScript, TypeScript, Node.js, .NET, C#**
 
@@ -11,7 +13,11 @@
 
 - 😅 Fun fact **Squirtle, without a doubt, is my favorite Pokemon**
 
-### Blogs posts
+### YouTube Videos
+<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
+
+### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 - [The file melting Multer with NodeJS and Express](https://zakimohammed.medium.com/the-file-melting-multer-with-nodejs-and-express-528fc6914178?source=rss-1a77cd27c34b------2)
 - [This is awkward in JavaScript](https://zakimohammed.medium.com/this-is-awkward-in-javascript-73f405f2b0d0?source=rss-1a77cd27c34b------2)
