@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/youtube video-workflow@master
+      - uses: gautamkrishnar/youtube-video-workflow@master
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK6qSa7lAJtYGrQX8Y-bD1w"
