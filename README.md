@@ -15,6 +15,8 @@
 
 ### YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Destructuring Objects in JavaScript - The Art of Destructuring in JavaScript &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=I1CFLpZi-u4)
+- [Destructuring Arrays in JavaScript - The Art of Destructuring in JavaScript &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=7wJ3Jp-AXGs)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ### Blogs Posts
