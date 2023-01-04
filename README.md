@@ -21,11 +21,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [One day I will find some Closure](https://zakimohammed.medium.com/one-day-i-will-find-some-closure-70ccfb870f65?source=rss-1a77cd27c34b------2)
 - [JavaScript Elders — Call, Apply, Bind](https://zakimohammed.medium.com/javascript-elders-call-apply-bind-fbecce294427?source=rss-1a77cd27c34b------2)
 - [The file melting Multer with NodeJS and Express](https://zakimohammed.medium.com/the-file-melting-multer-with-nodejs-and-express-528fc6914178?source=rss-1a77cd27c34b------2)
 - [This is awkward in JavaScript](https://zakimohammed.medium.com/this-is-awkward-in-javascript-73f405f2b0d0?source=rss-1a77cd27c34b------2)
 - [NgMarvel app using Angular and Marvel API](https://zakimohammed.medium.com/ngmarvel-app-using-angular-and-marvel-api-c4af591391fb?source=rss-1a77cd27c34b------2)
-- [Async-Await-ing for your Loving Promises](https://blog.devgenius.io/async-await-ing-for-your-loving-promises-98a892332769?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
