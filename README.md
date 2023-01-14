@@ -21,11 +21,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Access Layer for NodeJS and MSSQL — Part 2](https://zakimohammed.medium.com/data-access-layer-for-nodejs-and-mssql-part-2-3d344c558c54?source=rss-1a77cd27c34b------2)
 - [Data Access Layer for NodeJS and MSSQL — Part 1](https://zakimohammed.medium.com/data-access-layer-for-nodejs-and-mssql-part-1-16bbd1ea9c81?source=rss-1a77cd27c34b------2)
 - [One day I will find some Closure](https://zakimohammed.medium.com/one-day-i-will-find-some-closure-70ccfb870f65?source=rss-1a77cd27c34b------2)
 - [JavaScript Elders — Call, Apply, Bind](https://zakimohammed.medium.com/javascript-elders-call-apply-bind-fbecce294427?source=rss-1a77cd27c34b------2)
 - [The file melting Multer with NodeJS and Express](https://zakimohammed.medium.com/the-file-melting-multer-with-nodejs-and-express-528fc6914178?source=rss-1a77cd27c34b------2)
-- [This is awkward in JavaScript](https://zakimohammed.medium.com/this-is-awkward-in-javascript-73f405f2b0d0?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
