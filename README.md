@@ -21,11 +21,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Workflow Core Getting Started](https://zakimohammed.medium.com/workflow-core-getting-started-303b3f3e2f9e?source=rss-1a77cd27c34b------2)
 - [NodeJS and MSSQL Connection Pool](https://zakimohammed.medium.com/nodejs-and-mssql-connection-pool-ab107a31e29e?source=rss-1a77cd27c34b------2)
 - [Data Access Layer for NodeJS and MSSQL — Part 2](https://zakimohammed.medium.com/data-access-layer-for-nodejs-and-mssql-part-2-3d344c558c54?source=rss-1a77cd27c34b------2)
 - [Data Access Layer for NodeJS and MSSQL — Part 1](https://zakimohammed.medium.com/data-access-layer-for-nodejs-and-mssql-part-1-16bbd1ea9c81?source=rss-1a77cd27c34b------2)
 - [One day I will find some Closure](https://zakimohammed.medium.com/one-day-i-will-find-some-closure-70ccfb870f65?source=rss-1a77cd27c34b------2)
-- [JavaScript Elders — Call, Apply, Bind](https://zakimohammed.medium.com/javascript-elders-call-apply-bind-fbecce294427?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
