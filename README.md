@@ -21,11 +21,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Workflow Core DSL for JSON and YAML](https://zakimohammed.medium.com/workflow-core-dsl-for-json-and-yaml-5892d914b65c?source=rss-1a77cd27c34b------2)
 - [The Art of Destructuring in JavaScript](https://zakimohammed.medium.com/the-art-of-destructuring-in-javascript-ef65d1d79d97?source=rss-1a77cd27c34b------2)
 - [Spread love with JavaScript](https://zakimohammed.medium.com/spread-love-with-javascript-9a48c8ef675?source=rss-1a77cd27c34b------2)
 - [Rest Your Love On JavaScript](https://zakimohammed.medium.com/rest-your-love-on-javascript-c278879d978d?source=rss-1a77cd27c34b------2)
 - [Workflow Core Getting Started](https://zakimohammed.medium.com/workflow-core-getting-started-303b3f3e2f9e?source=rss-1a77cd27c34b------2)
-- [NodeJS and MSSQL Connection Pool](https://zakimohammed.medium.com/nodejs-and-mssql-connection-pool-ab107a31e29e?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
