@@ -21,11 +21,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nginx Cache Config for Dockerized Angular App — NgDocker](https://zakimohammed.medium.com/nginx-cache-config-for-dockerized-angular-app-ngdocker-58e58f965c7?source=rss-1a77cd27c34b------2)
 - [Gzip Dockerized Angular App with Nginx — NgDocker](https://zakimohammed.medium.com/gzip-dockerized-angular-app-with-nginx-ngdocker-dacc5765c0e8?source=rss-1a77cd27c34b------2)
 - [Dockerized Angular App with Nginx — NgDocker](https://zakimohammed.medium.com/dockerized-angular-app-with-nginx-ngdocker-755a741540ab?source=rss-1a77cd27c34b------2)
 - [JEST Started with Unit Testing](https://zakimohammed.medium.com/jest-started-with-unit-testing-91141044ca19?source=rss-1a77cd27c34b------2)
 - [Workflow Core DSL for JSON and YAML](https://zakimohammed.medium.com/workflow-core-dsl-for-json-and-yaml-5892d914b65c?source=rss-1a77cd27c34b------2)
-- [The Art of Destructuring in JavaScript](https://zakimohammed.medium.com/the-art-of-destructuring-in-javascript-ef65d1d79d97?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
