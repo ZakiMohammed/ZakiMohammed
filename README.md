@@ -15,7 +15,7 @@
 
 ### YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [Vite for TypeScript](https://www.youtube.com/watch?v=UaunZ2Gm2W0)
+- [Vite for TypeScript | Geekle.us: TypeScript Global Summit 2023](https://www.youtube.com/watch?v=UaunZ2Gm2W0)
 - [Destructuring Objects in JavaScript - The Art of Destructuring in JavaScript &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=I1CFLpZi-u4)
 - [Destructuring Arrays in JavaScript - The Art of Destructuring in JavaScript &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=7wJ3Jp-AXGs)
 <!-- YOUTUBE-VIDEO-LIST:END -->
