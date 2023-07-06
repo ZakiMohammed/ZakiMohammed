@@ -22,11 +22,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [NgFate — A tool for deciding the fate of an Angular app](https://zakimohammed.medium.com/ngfate-a-tool-for-deciding-the-fate-of-an-angular-app-1bfa5650d2e3?source=rss-1a77cd27c34b------2)
 - [Cache Angular HTTP request using @ngneat/cashew](https://zakimohammed.medium.com/cache-angular-http-request-using-ngneat-cashew-8ca66e4c7297?source=rss-1a77cd27c34b------2)
 - [Nginx Cache Config for Dockerized Angular App — NgDocker](https://zakimohammed.medium.com/nginx-cache-config-for-dockerized-angular-app-ngdocker-58e58f965c7?source=rss-1a77cd27c34b------2)
 - [Gzip Dockerized Angular App with Nginx — NgDocker](https://zakimohammed.medium.com/gzip-dockerized-angular-app-with-nginx-ngdocker-dacc5765c0e8?source=rss-1a77cd27c34b------2)
 - [Dockerized Angular App with Nginx — NgDocker](https://zakimohammed.medium.com/dockerized-angular-app-with-nginx-ngdocker-755a741540ab?source=rss-1a77cd27c34b------2)
-- [JEST Started with Unit Testing](https://zakimohammed.medium.com/jest-started-with-unit-testing-91141044ca19?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
