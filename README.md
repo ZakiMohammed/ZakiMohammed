@@ -13,6 +13,9 @@
 
 - 😅 Fun fact **Squirtle, without a doubt, is my favorite Pokemon**
 
+
+![](https://komarev.com/ghpvc/?username=ZakiMohammed&color=yellow&style=flat-square)
+
 ### YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
 - [Vite for TypeScript | Geekle.us: TypeScript Global Summit 2023](https://www.youtube.com/watch?v=UaunZ2Gm2W0)
