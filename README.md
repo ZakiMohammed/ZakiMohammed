@@ -25,11 +25,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [ISRO React App — Working on Component — Part 2](https://zakimohammed.medium.com/isro-react-app-working-on-component-part-2-652eef864a13?source=rss-1a77cd27c34b------2)
 - [ISRO React App — Initial Setup — Part 1](https://zakimohammed.medium.com/isro-react-app-initial-setup-part-1-28f5951f7fe2?source=rss-1a77cd27c34b------2)
 - [Angular Performance Improvement](https://zakimohammed.medium.com/angular-performance-improvement-bb2f513e5918?source=rss-1a77cd27c34b------2)
 - [Brotli Dockerized Angular App with Nginx — NgDocker](https://zakimohammed.medium.com/brotli-dockerized-angular-app-with-nginx-ngdocker-19a6b99c7977?source=rss-1a77cd27c34b------2)
 - [NgFate — A tool for deciding the fate of an Angular app](https://zakimohammed.medium.com/ngfate-a-tool-for-deciding-the-fate-of-an-angular-app-1bfa5650d2e3?source=rss-1a77cd27c34b------2)
-- [Cache Angular HTTP request using @ngneat/cashew](https://zakimohammed.medium.com/cache-angular-http-request-using-ngneat-cashew-8ca66e4c7297?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
