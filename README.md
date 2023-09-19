@@ -25,11 +25,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [React Journey: Part 2 — States, Props, Events and Hooks](https://zakimohammed.medium.com/react-journey-part-2-states-props-events-and-hooks-de7e96431e71?source=rss-1a77cd27c34b------2)
 - [React Journey: Part 1 — Getting Started](https://zakimohammed.medium.com/react-journey-part-1-getting-started-e1ae4c3d6ee3?source=rss-1a77cd27c34b------2)
 - [Async Operations In JavaScript](https://zakimohammed.medium.com/async-operations-in-javascript-52520dc13562?source=rss-1a77cd27c34b------2)
 - [ISRO React App — Working on Component — Part 2](https://zakimohammed.medium.com/isro-react-app-working-on-component-part-2-652eef864a13?source=rss-1a77cd27c34b------2)
 - [ISRO React App — Initial Setup — Part 1](https://zakimohammed.medium.com/isro-react-app-initial-setup-part-1-28f5951f7fe2?source=rss-1a77cd27c34b------2)
-- [Angular Performance Improvement](https://zakimohammed.medium.com/angular-performance-improvement-bb2f513e5918?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
