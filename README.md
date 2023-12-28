@@ -25,11 +25,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Validate JWT Policy in Azure APIM](https://zakimohammed.medium.com/creating-validate-jwt-policy-in-azure-apim-fabc9118827c?source=rss-1a77cd27c34b------2)
 - [React Journey: Part 5 — Context API](https://zakimohammed.medium.com/react-journey-part-5-context-api-761451b09ff2?source=rss-1a77cd27c34b------2)
 - [React Journey: Part 4 — Working with Web API](https://zakimohammed.medium.com/react-journey-part-4-working-with-web-api-d35547424001?source=rss-1a77cd27c34b------2)
 - [React Journey: Part 3 — React Routes](https://zakimohammed.medium.com/react-journey-part-3-react-routes-36cb3f1bea6f?source=rss-1a77cd27c34b------2)
 - [React Journey: Part 2 — States, Props, Events and Hooks](https://zakimohammed.medium.com/react-journey-part-2-states-props-events-and-hooks-de7e96431e71?source=rss-1a77cd27c34b------2)
-- [React Journey: Part 1 — Getting Started](https://zakimohammed.medium.com/react-journey-part-1-getting-started-e1ae4c3d6ee3?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
