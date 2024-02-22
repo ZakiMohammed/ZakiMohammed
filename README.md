@@ -25,7 +25,7 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular Prettier ESLint Configuration](https://zakimohammed.medium.com/angular-prettier-eslint-configuration-4c1fed9d0234?source=rss-1a77cd27c34b------2)
+- [Angular Prettier ESLint Configuration](https://blog.stackademic.com/angular-prettier-eslint-configuration-4c1fed9d0234?source=rss-1a77cd27c34b------2)
 - [Angular ESLint Configuration](https://zakimohammed.medium.com/angular-eslint-configuration-1f1884d9113d?source=rss-1a77cd27c34b------2)
 - [Passing Input to Azure APIM Policy Fragment](https://zakimohammed.medium.com/passing-input-to-azure-apim-policy-fragment-85772a72b440?source=rss-1a77cd27c34b------2)
 - [How to update Angular project — A Philosophy](https://zakimohammed.medium.com/how-to-update-angular-project-a-philosophy-326f893b4567?source=rss-1a77cd27c34b------2)
