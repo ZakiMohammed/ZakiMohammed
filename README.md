@@ -18,6 +18,7 @@
 
 ### YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [TypeScript - The First Class Citizen in Bun](https://www.youtube.com/watch?v=_8Rh9aX4lBg)
 - [Vite for TypeScript | Geekle.us: TypeScript Global Summit 2023](https://www.youtube.com/watch?v=UaunZ2Gm2W0)
 - [Destructuring Objects in JavaScript - The Art of Destructuring in JavaScript &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=I1CFLpZi-u4)
 - [Destructuring Arrays in JavaScript - The Art of Destructuring in JavaScript &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=7wJ3Jp-AXGs)
