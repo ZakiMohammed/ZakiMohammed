@@ -18,11 +18,11 @@
 
 ### YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Dev Interview Prep Podcast - Part 4 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=JFi-EzxwMeA)
 - [Dev Interview Prep Podcast - Part 3 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=KTKBIOjs5Sk)
 - [Dev Interview Prep Podcast - Part 2 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=VOheEYaeZM4)
 - [Dev Interview Prep Podcast - Part 1 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=SzTsQATPXyw)
 - [TypeScript - The First Class Citizen in Bun](https://www.youtube.com/watch?v=_8Rh9aX4lBg)
-- [Vite for TypeScript | Geekle.us: TypeScript Global Summit 2023](https://www.youtube.com/watch?v=UaunZ2Gm2W0)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ### Blogs Posts
