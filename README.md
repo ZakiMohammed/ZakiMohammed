@@ -27,11 +27,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Journey: Part 4 — Working with Web API](https://zakimohammed.medium.com/angular-journey-part-4-working-with-web-api-652027d7d8ed?source=rss-1a77cd27c34b------2)
 - [Angular Journey: Part 3 — Angular Routes](https://zakimohammed.medium.com/angular-journey-part-3-angular-routes-9e555f7da6eb?source=rss-1a77cd27c34b------2)
 - [Angular Journey: Part 2 — Bindings, Directives, Components, Services](https://zakimohammed.medium.com/angular-journey-part-2-bindings-directives-components-services-2223448b6d5a?source=rss-1a77cd27c34b------2)
 - [Angular Journey: Part 1 — Getting Started](https://zakimohammed.medium.com/angular-journey-part-1-getting-started-2e7d8afc7d08?source=rss-1a77cd27c34b------2)
 - [React Prettier ESLint Configuration](https://zakimohammed.medium.com/react-prettier-eslint-configuration-22bf2cd77127?source=rss-1a77cd27c34b------2)
-- [React ESLint Configuration](https://blog.stackademic.com/react-eslint-configuration-375cd3d54c00?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
