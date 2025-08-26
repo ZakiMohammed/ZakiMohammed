@@ -27,11 +27,11 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Folder Structure Best Practices](https://zakimohammed.medium.com/angular-folder-structure-best-practices-6b47a0b5b416?source=rss-1a77cd27c34b------2)
 - [Creating Send Request Policy in Azure APIM](https://zakimohammed.medium.com/creating-send-request-policy-in-azure-apim-519b61c4b36e?source=rss-1a77cd27c34b------2)
 - [Azure Well-Architected Framework — An Architect’s Arsenal](https://zakimohammed.medium.com/azure-well-architected-framework-an-architects-arsenal-815c4ce54885?source=rss-1a77cd27c34b------2)
 - [Angular Journey: Part 6 — Adapting to v17 and Beyond](https://zakimohammed.medium.com/angular-journey-part-6-adapting-to-v17-and-beyond-1c34610d9486?source=rss-1a77cd27c34b------2)
 - [Angular Journey: Part 5 — RxJS Touch](https://zakimohammed.medium.com/angular-journey-part-5-rxjs-touch-2461f8f9c63f?source=rss-1a77cd27c34b------2)
-- [Angular Journey: Part 4 — Working with Web API](https://zakimohammed.medium.com/angular-journey-part-4-working-with-web-api-652027d7d8ed?source=rss-1a77cd27c34b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
