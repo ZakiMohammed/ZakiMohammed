@@ -18,11 +18,11 @@
 
 ### YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Why Angular has changed so much? Understanding the Angular Renaissance](https://www.youtube.com/watch?v=IngplN2SXFw)
 - [Layered Architecture Explained - The Power of Separation of Concerns &lpar;SoC&rpar;](https://www.youtube.com/watch?v=EDHw29Y-t3U)
 - [React - Linters and Formatters | Geekle React 2024](https://www.youtube.com/watch?v=R-foZRmjWP0)
 - [Dev Interview Prep Podcast - Part 4 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=JFi-EzxwMeA)
 - [Dev Interview Prep Podcast - Part 3 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=KTKBIOjs5Sk)
-- [Dev Interview Prep Podcast - Part 2 | Core Concepts, DSA, Dev Stacks &amp; System Design [Hindi]](https://www.youtube.com/watch?v=VOheEYaeZM4)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ### Blogs Posts
